@@ -3,6 +3,7 @@
 
 
 class Square():
+    """class square"""
     width = 0
     height = 0
 
